@@ -1,0 +1,10 @@
+
+//   List Kost Type
+export const GET_LIST_KOST = 'GET_LIST_KOST'
+export const GET_LIST_KOST_FULFILLED = "GET_LIST_KOST_FULFILLED"
+export const GET_LIST_KOST_REJECTED = "GET_LIST_KOST_REJECTED"
+
+//  Get User Data Type
+export const GET_USER = 'GET_USER'
+export const GET_USER_FULFILLED = 'GET_USER_FULFILLED'
+export const GET_USER_REJECTED = 'GET_USER_REJECTED'
