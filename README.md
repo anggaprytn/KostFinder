@@ -83,7 +83,7 @@ npm start
 
 ## Support We :)
 
-- Start this repository
+- Star this repository ⭐
 - Hire We
 
   • [Angga Priyatna](https://www.linkedin.com/in/anggaprytn/) <br>
